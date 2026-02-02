@@ -1,6 +1,6 @@
-##Aim: Introduction To Python
+## Aim: Introduction To Python
 
-##Theory:
+## Theory:
 Data Types
 Python is dynamically typed, automatically assigning types based on value:
 Integer (int): Whole numbers.
@@ -13,7 +13,7 @@ Constants: Accesses high-precision values like math.pi.
 Functions: Includes math.log10() for logarithms and math.sin() for trigonometry.
 Note: Trigonometric inputs must be in radians
 
-##Algorithm:
+## Algorithm:
 calculator:
 Start.
 Prompt the user to enter a value for a and convert it to an integer.
@@ -42,5 +42,5 @@ Calculate the area using the formula: Area = pi*r*r (using math.pi).
 Print the calculated area.
 Stop.
 
-##Conclusion: 
+## Conclusion: 
 This program shows how to take user input, perform arithmetic operations, and use the math package for geometry. It also demonstrates how conditional statements (if-else) allow the program to compare values and give a specific output based on the result.
